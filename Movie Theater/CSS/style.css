@@ -1,0 +1,39 @@
+body {
+    background-color: blue;
+}
+
+#S {
+    display: inline-block;
+    margin: 20px;
+    border: 20px, 20px, 20px, 20px;
+    padding: 20px 20px, 20px, 20px;
+    border-style: double;
+   
+
+}
+.A {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    border-width: 50px;
+    border-bottom: 10px;
+    padding-bottom: 0%;
+    box-shadow: 8px;
+}
+
+.B {
+    margin-bottom: 0% auto;
+    border-top: 0px;
+    border-width: 50px;
+    border-width: 50px;
+    border-style: dotted;
+}
+
+.C {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    list-style-type: none;
+    display: inline;
+    padding:5px;
+}
